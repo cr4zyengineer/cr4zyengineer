@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @cr4zyengineer, I wanna be called Crazy
+- 👋 Hi, I’m @cr4zyengineer, I wanna be called Frida
+- I am 17 years old, I program since I was 10.
 - 👀 I’m interested in coding useful open source tools. Open source because people can learn from my code, contribute or report bugs to me. :3
 - 🌱 I’m currently learning deeply computer science and the linux world.
 - 💞️ I’m looking to collaborate on other open source tools i can help.
