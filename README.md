@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning deeply computer science and the linux world.
 - 💞️ I’m looking to collaborate on other open source tools i can help.
 - 📫 How to reach me on my coming s0n
-- 😄 Pronouns: she/her (working to be trans)
+- 😄 Pronouns: she/her (becoming a girl)
 - ⚡ Fun fact: I made iOS's first open source and mostly full fledged IDE (After iTheosMaker, but my thing is a totally different thing).
 
 <!---
