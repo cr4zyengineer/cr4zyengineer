@@ -3,8 +3,8 @@
 - 👀 I’m interested in coding useful open source tools. Open source because people can learn from my code, contribute or report bugs to me. :3
 - 🌱 I’m currently learning deeply computer science and the linux world.
 - 💞️ I’m looking to collaborate on other open source tools i can help.
-- 📫 How to reach me on my coming s0n
-- 😄 Pronouns: she/her (becoming a girl)
+- 📫 How to reach me: personal: fridakitten@pm.me | buisness: ceo@nyxian.app
+- 😄 Pronouns: she/her (trans)
 - ⚡ Fun fact: I made iOS's first open source and mostly full fledged IDE (After iTheosMaker, but my thing is a totally different thing).
 
 <!---
