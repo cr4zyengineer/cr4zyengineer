@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cr4zyengineer, I wanna be called Frida
 - I am 18 years old, I program since I was 10.
 - 👀 I’m interested in coding useful open source tools. Open source because people can learn from my code, contribute or report bugs to me. :3
-- 🌱 I’m currently learning deeply computer science and the linux world.
+- 🌱 I’m currently learning deeply about IDE's and ISA's and apple internals.
 - 💞️ I’m looking to collaborate on other open source tools i can help.
 - 📫 How to reach me: personal: fridakitten@pm.me | buisness: ceo@nyxian.app
 - 😄 Pronouns: she/her (trans)
